@@ -1,4 +1,4 @@
-package com.example.sms;
+package com.sms;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
